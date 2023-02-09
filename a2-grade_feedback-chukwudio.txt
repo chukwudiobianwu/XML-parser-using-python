@@ -1,0 +1,61 @@
+SENG 265 -- SPRING 2022
+ASSIGNMENT #2 EVALUATION
+========================
+
+Student name:   Chukwudi Obianwu
+Student number: V00974757
+Student login:  chukwudio
+
+-----
+(1) process_cal2.py submitted and named appropriately; runs
+without errors or warnings.
+
+- Yes, the submitted file is correct, and the code
+  runs successfully without errors or warnings.
+
+-----
+(2) Tests passed (and further comments)
+
+- All tests passed. Great work.
+
+-----
+(3) Code formatting and structure:
+
+Positive aspects:
+
+- Good solution that makes use of relevant Python collections and modules.
+
+- Good formatting and structure of the code that facilitates reading
+  and understanding.
+
+- Good naming conventions for functions and variables.
+
+- Good attempt at documenting the code using comments to describe
+  important aspects of the solution.
+
+- Reasonable attempt at code segmentation (i.e., appropriate function
+  creation and use). Consider dividing large functions into various
+  smaller functions with a smaller scope and a well-defined purpose.
+
+Improvement opportunities:
+
+- Instead of having large functions, it is a good practice to divide
+  your program into small pieces of functionality defined in
+  well-defined functions. Functions should have a unique intention and a
+  very clear scope. This facilitates the re-usability and maintainability
+  of your code.
+
+- It is always a good idea to minimize the length of your main()
+  function to facilitate the re-usability of your code. A large or
+  considerably big main() function might indicate that some portions of
+  code in the function might placed in independent functions, which
+  might potentially reused in the future. 
+
+- To facilitate and accelerate reading Python code, it is recommended 
+  to describe\document the each function in terms of their arguments (e.g., types, optional)
+  and return (e.g., type).
+
+-----
+
+GRADE: B
+MARKS: 76
